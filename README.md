@@ -1,2 +1,2 @@
-# kicad_sdenis_libs
+# Preface
 KiCad user libraries.
