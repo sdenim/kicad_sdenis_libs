@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FT2232H_Mini_Module
+D FT2232H Mini Module
+K USB Hi-Speed FT2232H Evaluation Module
+F https://www.ftdichip.com/Support/Documents/DataSheets/Modules/DS_FT2232H_Mini_Module.pdf
+$ENDCMP
+#
+$CMP FT4232H_Mini_Module
+D FT4232H Mini Module
+K USB Hi-Speed FT4232H Evaluation Module
+F https://www.ftdichip.com/Support/Documents/DataSheets/Modules/DS_FT4232H_Mini_Module.pdf
+$ENDCMP
+#
+$CMP SRDA3.3-4
+D  Low Capacitance TVS Array , SOIC-8
+K ESD protection diodes
+F https://www.semtech.com/uploads/documents/SRDA3_3-4.pdf
+$ENDCMP
+#
+#End Doc Library
